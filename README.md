@@ -31,8 +31,7 @@ Aplicação fullstack de gerenciamento de tarefas com front-end interativo integ
 Back-end
 1. Abra a pasta `Teste-main` no VS Code
 2. Execute o arquivo `DefinitivaProjetoApplication.java`
-3. O servidor estará disponível em `http://localhost:8080`
-4. Para visualizar as tarefas no navegador, acesse `http://localhost:8080/api/tasks`
+3. O servidor estará disponível em `http://localhost:8080/api/tasks`
 
 Front-end
 1. Abra a pasta `Front-End` no VS Code
