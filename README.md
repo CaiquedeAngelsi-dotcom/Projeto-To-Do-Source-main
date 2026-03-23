@@ -41,3 +41,4 @@ Front-end
 📝 Observação
 
 O banco de dados (`tasks.db`) é criado automaticamente na primeira execução — nenhuma configuração adicional é necessária.
+
